@@ -1,1 +1,1 @@
-Apllied Data Scuence Capstone
+Apllied Data Science Capstone
